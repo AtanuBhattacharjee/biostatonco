@@ -1,4 +1,5 @@
 ![20190922_164320](https://user-images.githubusercontent.com/22411298/71449590-c51eac00-2775-11ea-844f-b0a18ab220c9.jpg)
+Atanu Bhattacharjee
 
 ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/atanustat/biostat/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
