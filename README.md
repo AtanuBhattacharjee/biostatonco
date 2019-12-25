@@ -46,17 +46,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 1.Thiagarajan S, Dhar H, Bhattacharjee A, Fatehi KS, Shah SB, Chaukar D, Nair D, Deshmukh A, Prabhash K, Joshi A, Patil V, Noronha V, Laskar SG, Cruz AKD.Patterns of failure and outcomes in cT4 Oral squamous cell carcinoma (OSCC) undergoing upfront surgery in comparison to Neo-Adjuvant Chemotherapy (NACT) followed by surgery: A Matched Pair analysis.Oral Oncol. 2019 Nov 15;100:104455. doi: 10.1016/j.oraloncology.2019.104455.
 
 ### Biostatistics Tutorial
-Introduction to Biostatistics
+1. Introduction to Biostatistics
 [1546938553M1.pdf](https://github.com/atanustat/biostatonco/files/4000779/1546938553M1.pdf)
-Survival Analysis
+2. Survival Analysis
 [Survival Analysis.pdf](https://github.com/atanustat/biostatonco/files/4000798/Survival.Analysis.pdf)
-Parametric survival analysis
+3. Parametric survival analysis
 [parametric survival analysis.pdf](https://github.com/atanustat/biostatonco/files/4000800/parametric.survival.analysis.pdf)
-Acturial estimator with R
+4. Acturial estimator with R
 [Acturial estimator with R.pdf](https://github.com/atanustat/biostatonco/files/4000801/Acturial.estimator.with.R.pdf)
-Kaplan Meier Estimators-I
+5. Kaplan Meier Estimators-I
 [Kaplan Meier Estimators-I.pdf](https://github.com/atanustat/biostatonco/files/4000802/Kaplan.Meier.Estimators-I.pdf)
-Kaplan Meier Estimators-II
+6. Kaplan Meier Estimators-II
 [Uploading Kaplan Meier Estimators-Ii.pdf…]()
 
 
