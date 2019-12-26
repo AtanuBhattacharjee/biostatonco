@@ -48,7 +48,11 @@ Cancer 2020;9:23-6.
 6. Vijay Patil, Vanita Noronha, Amit Joshi, Anuradha Chougule, Atanu Bhattacharjee, Alok Goel, Vikas Talreja, Nandini Menon, Anant Ramaswamy, Ashay Karpe, Nikhil Pande, Arun Chandrasekharan, Abhishek Mahajan, Amit Janu, Nilendu Purandare, Kumar Prabhash.
 Quality-adjusted time without symptoms or toxicity (Q-TWiST) analysis of a Phase III randomized trial to compare the benefit of gefitinib versus pemetrexed/ carboplatin for epidermal growth factor receptor-mutated non-small cell lung cancer.Cancer Research,Statistics and Treatment.2019 2(1).21-27.
 7. Patil VM, Noronha V, Joshi A, Agarwal J, Ghosh-Laskar S, Budrukkar A, Murthy V, Gupta T, Mahimkar M, Juvekar S, Arya S, Mahajan A, Agarwal A, Purandare N,Rangarajan V, Balaji A, Chaudhari SV, Banavali S, Kannan S, Bhattacharjee A, D'Cruz AK, Chaturvedi P, Pai PS, Chaukar D, Pantvaidya G, Nair D, Nair S, Deshmukh A,Thiagarajan S, Mathrudev V, Manjrekar A, Dhumal S, Maske K, Bhelekar AS, Nawale K, Chandrasekharan A, Pande N, Goel A, Talreja V, Simha V, Srinivas S, Swami R,Vallathol DH, Dsouza H, Shrirangwar S,Turkar S, Abraham G, Thanky AH,Patel U,Pandey MK,Prabhash K.A randomized phase 3 trial comparing nimotuzumab plus cisplatin chemoradiotherapy versus cisplatin chemoradiotherapy alone in locally advanced head and neck cancer.Cancer. 2019 Sep 15;125(18):3184-3197. doi: 10.1002/cncr.32179. Epub 2019 May 31.
-
+8. Noronha V, Patil VM, Joshi A, Menon N, Chougule A, Mahajan A, Janu A, Purandare N, Kumar R, More S, Goud S, Kadam N, Daware N, Bhattacharjee A, Shah S, Yadav A,
+Trivedi V, Behel V, Dutt A, Banavali SD, Prabhash K.Gefitinib Versus Gefitinib Plus Pemetrexed and Carboplatin Chemotherapy in EGFR-Mutated Lung Cancer.J Clin Oncol. 2019 Aug 14:JCO1901154. doi: 10.1200/JCO.19.01154.
+9. Bhattacharjee A.Bayesian competing risks analysis without data stratification.Clinical Epidemiology and Global Health (In press) 2019.
+10.Mukesh Kumar  Prashant Kr. Sonker  Agni Saroj  Aanchal Jain  Atanu Bhattacharjee  Rakesh Kr. Saroj.
+Cancer Reports.Parametric survival analysis using R: Illustration with lung cancer data.2019. https://doi.org/10.1002/cnr2.1210
 
 
 
