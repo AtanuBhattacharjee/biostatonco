@@ -56,9 +56,9 @@ Cancer Reports.Parametric survival analysis using R: Illustration with lung canc
 11. Bhattacharjee A.A joint longitudinal and survival model for dynamic treatment regimes in Presence of Competing Risk Analysis.
 Clinical Epidemiology and Global Health.2019.7(3).337-341.
 12. Bhattacharjee A,Budukh A,Dikshit  R.Prostate cancer survival estimates: An application with piecewise hazard function derivation.South Asian journal of cancer.2019.8(3).105.
-13.A Bhattacharjee, GK Vishwakarma.Time-course data prediction for repeatedly measured gene expression.International Journal of Biomathematics.2019.12(4).
-14.Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).
-15.Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.
+13. A Bhattacharjee, GK Vishwakarma.Time-course data prediction for repeatedly measured gene expression.International Journal of Biomathematics.2019.12(4).
+14. Vijay M Patil, Arun Chandrasekharan, Dilip Harindran Vallathol, Mridul Malhotra, Ram Abhinav, Priti Agarwal, Anu Rajpurohit, Raees Tonse, Atanu Bhattacharjee, Rakesh Jalali. Antiemetic prophylaxis with temozolomide: an audit from a tertiary care center.2019.Neuro-Oncology Practice.4(19).
+15. Atanu Bhattacharjee, Gaurav Roy, Atul Budukh, Rajesh Dikshit, Vijay M Patil, Amit Joshi, Vanita Noronha, Kumar Prabash, Papai Roy A competing risk analysis of death patterns in male genitourinary cancer.(2019).Cancer Reports, e1174.
 
 
 ### Biostatistics Tutorial
