@@ -72,6 +72,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 13. The Accelerated Failure Time [The Accelerated Failure Time.pdf](https://github.com/atanustat/biostatonco/files/4001300/The.Accelerated.Failure.Time.pdf)
 14. Competing Risks Model [Competing Risks Model.pdf](https://github.com/atanustat/biostatonco/files/4001301/Competing.Risks.Model.pdf)
 15. Clinical Trials [Clinical Trials.pdf](https://github.com/atanustat/biostatonco/files/4001302/Clinical.Trials.pdf)
+16. Sample size determination
+[sample size determination.pdf](https://github.com/atanustat/biostatonco/files/4001312/sample.size.determination.pdf)
+17. Random Allocation
+[random allocation.pdf](https://github.com/atanustat/biostatonco/files/4001314/random.allocation.pdf)
+18. Sequential Clinical Trial-I
+[sequential clinical trial.pdf](https://github.com/atanustat/biostatonco/files/4001315/sequential.clinical.trial.pdf)
+19. Sequential Clinical Trial-II
+[sequential clinical trial II.pdf](https://github.com/atanustat/biostatonco/files/4001316/sequential.clinical.trial.II.pdf)
+20. Sequential Clinical Trial-III
+[sequential clinical trial III.pdf](https://github.com/atanustat/biostatonco/files/4001318/sequential.clinical.trial.III.pdf)
+
+
+
 
  
 ### Contact
