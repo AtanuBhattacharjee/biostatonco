@@ -32,12 +32,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atanustat/biostat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
 ### Teaching
 
 ### Research
@@ -48,6 +42,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
  A tertiary care audit of using abiraterone acetate in patients of metastatic castrate-resistant prostate cancer.South Asian J
 Cancer 2020;9:23-6.
 2. Thiagarajan S, Dhar H, Bhattacharjee A, Fatehi KS, Shah SB, Chaukar D, Nair D, Deshmukh A, Prabhash K, Joshi A, Patil V, Noronha V, Laskar SG, Cruz AKD.Patterns of failure and outcomes in cT4 Oral squamous cell carcinoma (OSCC) undergoing upfront surgery in comparison to Neo-Adjuvant Chemotherapy (NACT) followed by surgery: A Matched Pair analysis.Oral Oncol. 2019 Nov 15;100:104455. doi: 10.1016/j.oraloncology.2019.104455.
+3. Narasimhan M, Kannan S, Chawade A, Bhattacharjee A, Govekar R. Clinical biomarker discovery by SWATH-MS based label-free quantitative proteomics: impact of criteria for identification of differentiators and data normalization method.J Transl Med. 2019 May 31;17(1):184. doi: 10.1186/s12967-019-1937-9.
+4. Patil V#1,2, Joshi A#1,2, Noronha V1,2, Agarwala V1,2, Chougule A1,2, Kanan S, Bhattacharjee A, Chandrasekharan A, Pande N, Simha V, Goud S, More S, Kumar R, Mahajan A, Janu A, Purandare N, Prabhash K.Randomized phase 3 open label study of quality of life of patients on Pemetrexed versus Erlotinib as maintenance therapy for advanced non squamous non EGFR mutated non small cell lung cancer.Oncotarget. 2019 Oct 29;10(59):6297-6307. doi: 10.18632/oncotarget.27214. eCollection 2019 Oct 29.
+5. Singhavi HR, Chakrabarti S, Singh A, Mair M, Bhattacharjee A, Shetty R, Qayyumi B, Pai A, Joshi P, Nair D, Nair S, Chaturvedi P.Comparison of the 7th and 8th edition AJCC classification system in oral cavity squamous cell cancers.Int J Cancer. 2019 Oct 3. doi: 10.1002/ijc.32720. 
 
 ### Biostatistics Tutorial
 1. Introduction to Biostatistics
