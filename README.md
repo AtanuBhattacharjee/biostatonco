@@ -67,6 +67,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 10. Cox PH Model
 [Cox PH model.pdf](https://github.com/atanustat/biostatonco/files/4001285/Cox.PH.model.pdf)
 
+11. Estimation and Inference for Cox’s [Estimation and Inference for Cox’s.pdf](https://github.com/atanustat/biostatonco/files/4001298/Estimation.and.Inference.for.Cox.s.pdf)
+12.Diagnostics for Cox’s PH model [Diagnostics for Cox’s PH model.pdf](https://github.com/atanustat/biostatonco/files/4001299/Diagnostics.for.Cox.s.PH.model.pdf)
+13.The Accelerated Failure Time [The Accelerated Failure Time.pdf](https://github.com/atanustat/biostatonco/files/4001300/The.Accelerated.Failure.Time.pdf)
+14.Competing Risks Model [Competing Risks Model.pdf](https://github.com/atanustat/biostatonco/files/4001301/Competing.Risks.Model.pdf)
+15.Clinical Trials [Clinical Trials.pdf](https://github.com/atanustat/biostatonco/files/4001302/Clinical.Trials.pdf)
 
  
 ### Contact
