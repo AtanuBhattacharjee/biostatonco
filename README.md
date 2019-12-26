@@ -62,10 +62,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 [nelson aalen estimator.pdf](https://github.com/atanustat/biostatonco/files/4001281/nelson.aalen.estimator.pdf)
 8. Equality of survival
 [equality of survival function.pdf](https://github.com/atanustat/biostatonco/files/4001282/equality.of.survival.function.pdf)
-Mantel Haenszel Estimator
-9. [Mantel-Haenszl Estimators.pdf](https://github.com/atanustat/biostatonco/files/4001284/Mantel-Haenszl.Estimators.pdf)
-Cox PH Model
-10. [Cox PH model.pdf](https://github.com/atanustat/biostatonco/files/4001285/Cox.PH.model.pdf)
+9. Mantel Haenszel Estimator
+[Mantel-Haenszl Estimators.pdf](https://github.com/atanustat/biostatonco/files/4001284/Mantel-Haenszl.Estimators.pdf)
+10. Cox PH Model
+[Cox PH model.pdf](https://github.com/atanustat/biostatonco/files/4001285/Cox.PH.model.pdf)
 
 
  
