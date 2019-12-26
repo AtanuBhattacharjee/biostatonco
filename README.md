@@ -58,6 +58,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 [Kaplan Meier Estimators-I.pdf](https://github.com/atanustat/biostatonco/files/4000802/Kaplan.Meier.Estimators-I.pdf)
 6. Kaplan Meier Estimators-II
 [Uploading Kaplan Meier Estimators-Ii.pdf…]()
+7. Nelson aalen estimator
+[nelson aalen estimator.pdf](https://github.com/atanustat/biostatonco/files/4001281/nelson.aalen.estimator.pdf)
+8. Equality of survival
+[equality of survival function.pdf](https://github.com/atanustat/biostatonco/files/4001282/equality.of.survival.function.pdf)
+Mantel Haenszel Estimator
+9. [Mantel-Haenszl Estimators.pdf](https://github.com/atanustat/biostatonco/files/4001284/Mantel-Haenszl.Estimators.pdf)
+Cox PH Model
+10. [Cox PH model.pdf](https://github.com/atanustat/biostatonco/files/4001285/Cox.PH.model.pdf)
 
 
  
