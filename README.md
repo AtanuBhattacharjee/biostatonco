@@ -45,6 +45,13 @@ Cancer 2020;9:23-6.
 3. Narasimhan M, Kannan S, Chawade A, Bhattacharjee A, Govekar R. Clinical biomarker discovery by SWATH-MS based label-free quantitative proteomics: impact of criteria for identification of differentiators and data normalization method.J Transl Med. 2019 May 31;17(1):184. doi: 10.1186/s12967-019-1937-9.
 4. Patil V#1,2, Joshi A#1,2, Noronha V1,2, Agarwala V1,2, Chougule A1,2, Kanan S, Bhattacharjee A, Chandrasekharan A, Pande N, Simha V, Goud S, More S, Kumar R, Mahajan A, Janu A, Purandare N, Prabhash K.Randomized phase 3 open label study of quality of life of patients on Pemetrexed versus Erlotinib as maintenance therapy for advanced non squamous non EGFR mutated non small cell lung cancer.Oncotarget. 2019 Oct 29;10(59):6297-6307. doi: 10.18632/oncotarget.27214. eCollection 2019 Oct 29.
 5. Singhavi HR, Chakrabarti S, Singh A, Mair M, Bhattacharjee A, Shetty R, Qayyumi B, Pai A, Joshi P, Nair D, Nair S, Chaturvedi P.Comparison of the 7th and 8th edition AJCC classification system in oral cavity squamous cell cancers.Int J Cancer. 2019 Oct 3. doi: 10.1002/ijc.32720. 
+6. Vijay Patil, Vanita Noronha, Amit Joshi, Anuradha Chougule, Atanu Bhattacharjee, Alok Goel, Vikas Talreja, Nandini Menon, Anant Ramaswamy, Ashay Karpe, Nikhil Pande, Arun Chandrasekharan, Abhishek Mahajan, Amit Janu, Nilendu Purandare, Kumar Prabhash.
+Quality-adjusted time without symptoms or toxicity (Q-TWiST) analysis of a Phase III randomized trial to compare the benefit of gefitinib versus pemetrexed/ carboplatin for epidermal growth factor receptor-mutated non-small cell lung cancer.Cancer Research,Statistics and Treatment.2019 2(1).21-27.
+7. Patil VM, Noronha V, Joshi A, Agarwal J, Ghosh-Laskar S, Budrukkar A, Murthy V, Gupta T, Mahimkar M, Juvekar S, Arya S, Mahajan A, Agarwal A, Purandare N,Rangarajan V, Balaji A, Chaudhari SV, Banavali S, Kannan S, Bhattacharjee A, D'Cruz AK, Chaturvedi P, Pai PS, Chaukar D, Pantvaidya G, Nair D, Nair S, Deshmukh A,Thiagarajan S, Mathrudev V, Manjrekar A, Dhumal S, Maske K, Bhelekar AS, Nawale K, Chandrasekharan A, Pande N, Goel A, Talreja V, Simha V, Srinivas S, Swami R,Vallathol DH, Dsouza H, Shrirangwar S,Turkar S, Abraham G, Thanky AH,Patel U,Pandey MK,Prabhash K.A randomized phase 3 trial comparing nimotuzumab plus cisplatin chemoradiotherapy versus cisplatin chemoradiotherapy alone in locally advanced head and neck cancer.Cancer. 2019 Sep 15;125(18):3184-3197. doi: 10.1002/cncr.32179. Epub 2019 May 31.
+
+
+
+
 
 ### Biostatistics Tutorial
 1. Introduction to Biostatistics
