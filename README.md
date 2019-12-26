@@ -84,40 +84,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 [sequential clinical trial III.pdf](https://github.com/atanustat/biostatonco/files/4001318/sequential.clinical.trial.III.pdf)
 21. Randomize play the winder rule
 [Randomize play the winder rule.pdf](https://github.com/atanustat/biostatonco/files/4001329/Randomize.play.the.winder.rule.pdf)
-22.The Play the Winnder Rule [The Play the Winnder Rule.pdf](https://github.com/atanustat/biostatonco/files/4001331/The.Play.the.Winnder.Rule.pdf)
-23. Crossover Trial
-[Crossover trial.pdf](https://github.com/atanustat/biostatonco/files/4001332/Crossover.trial.pdf)
-24. Introduction to Epidemiology
-[Introduction to Epidemiology.pdf](https://github.com/atanustat/biostatonco/files/4001333/Introduction.to.Epidemiology.pdf)
-25. Disease Frequency
-[Disease Frequency-I.pdf](https://github.com/atanustat/biostatonco/files/4001335/Disease.Frequency-I.pdf)
-26. Disease Frequency-II
-[Disease Frequency-II.pdf](https://github.com/atanustat/biostatonco/files/4001354/Disease.Frequency-II.pdf)
-27. Disease Frequency-III
-[Disease Frequency-III.pdf](https://github.com/atanustat/biostatonco/files/4001358/Disease.Frequency-III.pdf)
-28. Observational Study
-[Observational Study.pdf](https://github.com/atanustat/biostatonco/files/4001360/Observational.Study.pdf)
-29. Analystical Study
-[Analytical Study.pdf](https://github.com/atanustat/biostatonco/files/4001353/Analytical.Study.pdf)
-30. Case Control Study
-[Case Control Study.pdf](https://github.com/atanustat/biostatonco/files/4001352/Case.Control.Study.pdf)
-31. Cohort Study-I 
-[Cohort Study -I.pdf](https://github.com/atanustat/biostatonco/files/4001350/Cohort.Study.-I.pdf)
-
-32. Cohort Study-II 
-[Cohort Study-II.pdf](https://github.com/atanustat/biostatonco/files/4001349/Cohort.Study-II.pdf)
-33.  Case Control Study -I
-[case Control Study -I.pdf](https://github.com/atanustat/biostatonco/files/4001346/case.Control.Study.-I.pdf)
-34.  Case Control Study -II
-[Case Control Study II.pdf](https://github.com/atanustat/biostatonco/files/4001343/Case.Control.Study.II.pdf)
-35. Confounding
-[confounding.pdf](https://github.com/atanustat/biostatonco/files/4001342/confounding.pdf)
-36. Stratified Analysis
-[Stratified Analysis.pdf](https://github.com/atanustat/biostatonco/files/4001340/Stratified.Analysis.pdf)
-37. Matched Analysis-I
-[Matched Analysis-I.pdf](https://github.com/atanustat/biostatonco/files/4001337/Matched.Analysis-I.pdf)
-38.  Matched Analysis-I
-[Mathced Analysis-II.pdf](https://github.com/atanustat/biostatonco/files/4001336/Mathced.Analysis-II.pdf)
+22. The Play the Winnder Rule [The Play the Winnder Rule.pdf](https://github.com/atanustat/biostatonco/files/4001331/The.Play.the.Winnder.Rule.pdf)
+23. Crossover Trial[Crossover trial.pdf](https://github.com/atanustat/biostatonco/files/4001332/Crossover.trial.pdf)
+24. Introduction to Epidemiology[Introduction to Epidemiology.pdf](https://github.com/atanustat/biostatonco/files/4001333/Introduction.to.Epidemiology.pdf)
+25. Disease Frequency[Disease Frequency-I.pdf](https://github.com/atanustat/biostatonco/files/4001335/Disease.Frequency-I.pdf)
+26. Disease Frequency-II[Disease Frequency-II.pdf](https://github.com/atanustat/biostatonco/files/4001354/Disease.Frequency-II.pdf)
+27. Disease Frequency-III[Disease Frequency-III.pdf](https://github.com/atanustat/biostatonco/files/4001358/Disease.Frequency-III.pdf)
+28. Observational Study[Observational Study.pdf](https://github.com/atanustat/biostatonco/files/4001360/Observational.Study.pdf)
+29. Analystical Study[Analytical Study.pdf](https://github.com/atanustat/biostatonco/files/4001353/Analytical.Study.pdf)
+30. Case Control Study[Case Control Study.pdf](https://github.com/atanustat/biostatonco/files/4001352/Case.Control.Study.pdf)
+31. Cohort Study-I [Cohort Study -I.pdf](https://github.com/atanustat/biostatonco/files/4001350/Cohort.Study.-I.pdf)
+32. Cohort Study-II [Cohort Study-II.pdf](https://github.com/atanustat/biostatonco/files/4001349/Cohort.Study-II.pdf)
+33.  Case Control Study -I[case Control Study -I.pdf](https://github.com/atanustat/biostatonco/files/4001346/case.Control.Study.-I.pdf)
+34.  Case Control Study -II[Case Control Study II.pdf](https://github.com/atanustat/biostatonco/files/4001343/Case.Control.Study.II.pdf)
+35. Confounding[confounding.pdf](https://github.com/atanustat/biostatonco/files/4001342/confounding.pdf)
+36. Stratified Analysis[Stratified Analysis.pdf](https://github.com/atanustat/biostatonco/files/4001340/Stratified.Analysis.pdf)
+37. Matched Analysis-I[Matched Analysis-I.pdf](https://github.com/atanustat/biostatonco/files/4001337/Matched.Analysis-I.pdf)
+38.  Matched Analysis-I[Mathced Analysis-II.pdf](https://github.com/atanustat/biostatonco/files/4001336/Mathced.Analysis-II.pdf)
 
 
 
