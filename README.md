@@ -117,7 +117,8 @@ Cancer Reports.Parametric survival analysis using R: Illustration with lung canc
 
 
 ### Talk
-1. Lung Cancer Update 2019 [presentation.pdf](https://github.com/atanustat/biostatonco/files/4002993/presentation.pdf)
+1. Lung Cancer Update 2019 [presentation.pdf](https://github.com/atanustat/biostatonco/files/4002993/presentation.pdf).
+2. Computational Biostatistics and Survival Analysis Talk[cce presentation.pdf](https://github.com/atanustat/biostatonco/files/4002995/cce.presentation.pdf).
 ### Contact
 abhattacharjee@actrec.gov.in/atanustat@gmail.com   
 
