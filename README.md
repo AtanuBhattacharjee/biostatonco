@@ -7,34 +7,6 @@ Centre for Cancer Epidemiology, Tata Memorial Centre, India
 I am working as Assistant Professor Biostatistics in the Section of Biostatistics, Centre for Cancer Epidemiology, Tata Memorial Centre, Mumbai.I am also an Ajunct Professor of Statistics at Department of Applied Mathematics, Indian Institute of Technology-Dhanbad. I completed by Ph.D in statistics under the supervision of Dr. Dilip C Nath.
 My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Teaching
-
-### Research
-
 ### Publication
 ## [2019]
 1. Amit Joshi, Sameer Shrirangwar, Vanita Noronha, Nilesh Sable, Archi Agarwal, Palak Popat, Atanu Bhattacharjee, Kumar Prabhash.
