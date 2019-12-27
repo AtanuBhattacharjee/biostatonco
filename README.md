@@ -3,10 +3,9 @@
 Assistant Professor Biostatistics
 Centre for Cancer Epidemiology, Tata Memorial Centre, India
 
-## Welcome to GitHub Pages
-You can use the [editor on GitHub](https://github.com/atanustat/biostat/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Biography
+I am working as Assistant Professor Biostatistics in the Section of Biostatistics, Centre for Cancer Epidemiology, Tata Memorial Centre, Mumbai.I am also an Ajunct Professor of Statistics at Department of Applied Mathematics, Indian Institute of Technology-Dhanbad. I completed by Ph.D in statistics under the supervision of Dr. Dilip C Nath.
+My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
 
 ### Markdown
 
