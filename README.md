@@ -98,24 +98,39 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 
 
 ### OpenBUGS code
-  Model1:- Growth Curve Modeling
+  Model1:- Growth Curve Modeling 
+  
   model {
+  
     for (i in 1:5) {
+    
       y[i]       ~ dnorm(mu[i], tau)
+      
       mu[i]     <- alpha + beta*(x[i] - mean(x[]))
+      
     }
+    
     alpha        ~ dflat()
+    
     beta         ~ dflat()
+    
     tau         <- 1/sigma2
+    
     log(sigma2) <- 2*log.sigma
+    
     log.sigma    ~ dflat()
+    
   }
 
   Data:
+  
   list(y = c(177,236,285,350,376), x = c(8,15,22,29,36))
+  
 
   Inits:
+  
   list(alpha=250,beta=0,log.sigma=0)
+  
 
 
 ### Contact
