@@ -98,7 +98,7 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 
 
 ### OpenBUGS code
-  Model1:- Growth Curve Modeling 
+ ## Model1:- Growth Curve Modeling 
   
   
   
