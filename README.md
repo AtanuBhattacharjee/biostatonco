@@ -132,7 +132,7 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
   list(alpha=250,beta=0,log.sigma=0)
   
 
-### Model1:- Growth Curve Modeling 
+### Model2:- Growth Curve Modeling 
 
 model {
 
@@ -223,6 +223,26 @@ MAN[]  AUTO[]  y[]  DIST[]
 -10.77	2.92	1.58	3
 
 END
+
+
+
+### Model 3:- New York Data Continued
+
+model {
+  for (i in 1:23) {
+    y[i]             ~ dnorm(mu[i], tau)
+    mu[i]           <- beta0 + beta[1]*MAN[i]
+  }
+  beta0              ~ dnorm(0, 0.0001)
+  beta[1]            ~ dnorm(0, 0.0001)
+  tau               <- 1/pow(sigma, 2)
+  sigma              ~ dunif(0, 100)
+
+  dummy             <- AUTO[1] + DIST[1]
+}
+
+Inits:
+list(beta0 = 0, beta = c(0), sigma = 1)
 
 
 ### Contact
