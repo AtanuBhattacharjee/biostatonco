@@ -98,7 +98,7 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 
 
 ### OpenBUGS code
- ## Model1:- Growth Curve Modeling 
+ ### Model1:- Growth Curve Modeling 
   
    model {  
    
@@ -131,6 +131,74 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
   
   list(alpha=250,beta=0,log.sigma=0)
   
+
+### Model1:- Growth Curve Modeling 
+
+model {
+
+  for (i in 1:23) {
+  
+    y[i]             ~ dnorm(mu[i], tau)
+    
+    D2[i]           <- equals(DIST[i], 2)
+    
+    D3[i]           <- equals(DIST[i], 3)
+    
+    mu[i]           <- beta0 + beta[1]*MAN[i]
+    
+                     + beta[2]*D2[i] + beta[3]*D3[i]
+                     
+  }
+  
+  beta0              ~ dnorm(0, 0.0001)
+  
+  for (j in 1:3) {
+  
+    beta[j]          ~ dnorm(0, 0.0001)
+    
+  }
+  
+  tau               <- 1/pow(sigma, 2)
+  
+  sigma              ~ dunif(0, 100)
+  
+
+  dummy             <- AUTO[1]
+  
+}
+
+
+Inits:
+
+list(beta0 = 0, beta = c(0, 0, 0), sigma = 1)
+
+Data:
+
+MAN[]  AUTO[]  y[]  DIST[]
+-15.76	1.09	3.19	1
+0.98	0.62	-3.45	1
+3.71	0.61	0.04	1
+-5.37	-1.01	6.62	1
+-10.23	-0.76	3.61	1
+-8.32	1.91	2.67	1
+-7.80	0.40	-2.45	1
+6.77	-1.71	9.31	1
+-8.81	-0.76	15.29	1
+-9.56	-1.34	3.68	1
+-2.06	-1.71	8.63	2
+-0.76	-1.82	10.82	2
+-6.30	-4.91	-0.50	2
+39.40	-2.65	-11.00	2
+-10.79	0.11	2.05	2
+-8.16	0.52	11.80	2
+-2.82	-2.54	-2.02	2
+-16.19	-0.07	0.94	3
+-11.00	-0.83	4.42	3
+-14.60	0.98	-0.86	3
+-17.96	-3.41	-0.92	3
+0.76	2.97	2.61	3
+-10.77	2.92	1.58	3
+END
 
 
 ### Contact
