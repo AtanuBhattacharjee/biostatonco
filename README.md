@@ -100,8 +100,9 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 ### OpenBUGS code
   Model1:- Growth Curve Modeling 
   
-  model {
   
+  
+  model {  
     for (i in 1:5) {
     
       y[i]       ~ dnorm(mu[i], tau)
@@ -118,17 +119,11 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
     
     log(sigma2) <- 2*log.sigma
     
-    log.sigma    ~ dflat()
-    
+    log.sigma    ~ dflat()     
   }
-
   Data:
-  
   list(y = c(177,236,285,350,376), x = c(8,15,22,29,36))
-  
-
   Inits:
-  
   list(alpha=250,beta=0,log.sigma=0)
   
 
