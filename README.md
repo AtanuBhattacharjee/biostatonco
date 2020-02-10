@@ -94,6 +94,8 @@ Clinical Epidemiology and Global Health.2019.7(3).337-341.
 ### Talk
 1. Lung Cancer Update 2019 [presentation.pdf](https://github.com/atanustat/biostatonco/files/4002993/presentation.pdf).
 2. Computational Biostatistics and Survival Analysis Talk[cce presentation.pdf](https://github.com/atanustat/biostatonco/files/4002995/cce.presentation.pdf).
+### Talk on “Mathematical Sciences for Practicing 1. Hands on Survival Analysis Researchers”https://github.com/atanustat/biostatonco/blob/master/AB1011%20Hands%20on%20Survival%20Analysis.pdf
+
 
 
 
