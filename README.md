@@ -8,6 +8,22 @@ I am working as Assistant Professor Biostatistics in the Section of Biostatistic
 My research interests include Bayesian inference, longitudinal data analysis, survival analysis, gene expression data analysis.
 
 ### Publication
+## [2020]
+1. Abin Thomas,Gajendra K.Vishwakarma and Atanu Bhattacharjee.Joint modeling of longitudinal and time-to-event data on multivariate protein biomarkers.https://doi.org/10.1016/j.cam.2020.113016.
+2. Low-cost oral metronomic versus intravenous chemotherapy in recurrent, inoperable and metastatic head and neck cancer: Phase III Metro-CIS study.
+3. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.
+4. Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.
+5. HER2 borderline is a negative prognostic factor for primary malignant breast cancer.
+6. Bayesian competing risks analysis without data stratification.
+7.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.
+8. Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oropharyngeal cancer.
+9. Aprepitant for Cough Suppression in Advanced Lung Cancer: A Randomized Trial.
+10. Salvage surgery in head and neck cancer: Does it improve outcomes?
+
+
+
+
+
 ## [2019]
 1. Amit Joshi, Sameer Shrirangwar, Vanita Noronha, Nilesh Sable, Archi Agarwal, Palak Popat, Atanu Bhattacharjee, Kumar Prabhash.
  A tertiary care audit of using abiraterone acetate in patients of metastatic castrate-resistant prostate cancer.South Asian J
