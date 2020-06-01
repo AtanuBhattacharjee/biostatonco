@@ -12,8 +12,9 @@ My research interests include Bayesian inference, longitudinal data analysis, su
 ## [2020]
 1. Abin Thomas,Gajendra K.Vishwakarma and Atanu Bhattacharjee.Joint modeling of longitudinal and time-to-event data on multivariate protein biomarkers.https://doi.org/10.1016/j.cam.2020.113016.
 2. Low-cost oral metronomic versus intravenous chemotherapy in recurrent, inoperable and metastatic head and neck cancer: Phase III Metro-CIS study.
-3. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.
-4. Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.
+3. Vijay M. Patil  Arti Bhelekar  Nandini Menon  Atanu Bhattacharjee  Vijai Simha  Ram Abhinav  Anuja Abhyankar  Epari Sridhar  Abhishek Mahajan  Ameya D. Puranik. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.cancer Medicine.https://doi.org/10.1002/cam4.3094
+4. Atanu Bhattacharjee, Vijay M Patil, Rajesh Dikshit, Kumar Prabhash, Arjun Singh, Pankaj Chaturvedi.Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.Head Neck
+. 2020 Jun;42(6):1173-1178. doi: 10.1002/hed.26196. Epub 2020 Apr 28.
 5. HER2 borderline is a negative prognostic factor for primary malignant breast cancer.
 6. Bayesian competing risks analysis without data stratification.
 7.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.
