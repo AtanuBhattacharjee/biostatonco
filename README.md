@@ -11,18 +11,17 @@ My research interests include Bayesian inference, longitudinal data analysis, su
 ### Publication
 ## [2020]
 1. Abin Thomas,Gajendra K.Vishwakarma and Atanu Bhattacharjee.Joint modeling of longitudinal and time-to-event data on multivariate protein biomarkers.https://doi.org/10.1016/j.cam.2020.113016.
-2. Low-cost oral metronomic versus intravenous chemotherapy in recurrent, inoperable and metastatic head and neck cancer: Phase III Metro-CIS study.
-3. Vijay M. Patil  Arti Bhelekar  Nandini Menon  Atanu Bhattacharjee  Vijai Simha  Ram Abhinav  Anuja Abhyankar  Epari Sridhar  Abhishek Mahajan  Ameya D. Puranik. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.cancer Medicine.https://doi.org/10.1002/cam4.3094
-4. Atanu Bhattacharjee, Vijay M Patil, Rajesh Dikshit, Kumar Prabhash, Arjun Singh, Pankaj Chaturvedi.Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.Head Neck
+2. Vijay M. Patil  Arti Bhelekar  Nandini Menon  Atanu Bhattacharjee  Vijai Simha  Ram Abhinav  Anuja Abhyankar  Epari Sridhar  Abhishek Mahajan  Ameya D. Puranik. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.cancer Medicine.https://doi.org/10.1002/cam4.3094
+3. Atanu Bhattacharjee, Vijay M Patil, Rajesh Dikshit, Kumar Prabhash, Arjun Singh, Pankaj Chaturvedi.Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.Head Neck
 . 2020 Jun;42(6):1173-1178. doi: 10.1002/hed.26196. Epub 2020 Apr 28.
-5. HER2 borderline is a negative prognostic factor for primary malignant breast cancer.
-6. Bayesian competing risks analysis without data stratification.
-7.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.
-8. Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oropharyngeal cancer.
-9. Vanita Noronha,Atanu Bhattacharjee,Vijay M Patil,Amit Joshi,Nandini Menon,Srushti Shah,Sadhana Kannan,Sadaf A Mukadam, Kamesh Maske, Sandeep Ishi, Kumar Prabhash.Aprepitant for Cough Suppression in Advanced Lung Cancer: A Randomized Trial.Chest
+4. Atanu Bhattacharjee, Jacinth Rajendra, Rajesh Dikshit, Shilpee Dutt.HER2 borderline is a negative prognostic factor for primary malignant breast cancer.Breast Cancer Res Treat
+. 2020 May;181(1):225-231. doi: 10.1007/s10549-020-05608-3
+5. Bayesian competing risks analysis without data stratification.
+6.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.
+7. Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oropharyngeal cancer.
+8. Vanita Noronha,Atanu Bhattacharjee,Vijay M Patil,Amit Joshi,Nandini Menon,Srushti Shah,Sadhana Kannan,Sadaf A Mukadam, Kamesh Maske, Sandeep Ishi, Kumar Prabhash.Aprepitant for Cough Suppression in Advanced Lung Cancer: A Randomized Trial.Chest
 . 2020 Jan 18;S0012-3692(20)30032-5. doi: 10.1016/j.chest.2019.11.048. Online ahead of print.
-10. Vijay Maruti Patil,Vanita Noronha,Shivakumar Thiagarajan,Amit Joshi,Arun Chandrasekharan,Vikas Talreja,Jaiprakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Shashikant Juvekar,Abhishek Mahajan,Archi Agarwal,Nilendu Purandare,Atanu Bhattacharjee, Anil K D'Cruz, Pankaj Chaturvedi,Prathamesh S Pai 2,Devendra Chaukar,Kumar Prabhash.Salvage surgery in head and neck cancer: Does it improve outcomes?Eur J Surg Oncol
-. 2020 Jan 15;S0748-7983(20)30024-X. doi: 10.1016/j.ejso.2020.01.019.
+9. Vijay Maruti Patil,Vanita Noronha,Shivakumar Thiagarajan,Amit Joshi,Arun Chandrasekharan,Vikas Talreja,Jaiprakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Shashikant Juvekar,Abhishek Mahajan,Archi Agarwal,Nilendu Purandare,Atanu Bhattacharjee, Anil K D'Cruz, Pankaj Chaturvedi,Prathamesh S Pai 2,Devendra Chaukar,Kumar Prabhash.Salvage surgery in head and neck cancer: Does it improve outcomes?Eur J Surg Oncol. 2020 Jan 15;S0748-7983(20)30024-X. doi: 10.1016/j.ejso.2020.01.019.
 
 
 
