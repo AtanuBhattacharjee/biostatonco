@@ -16,9 +16,11 @@ My research interests include Bayesian inference, longitudinal data analysis, su
 . 2020 Jun;42(6):1173-1178. doi: 10.1002/hed.26196. Epub 2020 Apr 28.
 4. Atanu Bhattacharjee, Jacinth Rajendra, Rajesh Dikshit, Shilpee Dutt.HER2 borderline is a negative prognostic factor for primary malignant breast cancer.Breast Cancer Res Treat
 . 2020 May;181(1):225-231. doi: 10.1007/s10549-020-05608-3
-5. Bayesian competing risks analysis without data stratification.
-6.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.
-7. Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oropharyngeal cancer.
+5. Atanu Bhattacharjee.Bayesian competing risks analysis without data stratification.DOI:https://doi.org/10.1016/j.cegh.2019.08.010
+6.Akshat Malik,Sudhir Nair,Arjun Singh,Komal Lamba,Swapnil Rane,Munita Bal,Atanu Bhattacharjee,Hisham Mehanna, Pankaj Chaturvedi.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.
+7. Vanita Noronha,Vijay Maruti Patil,Amit Joshi,Manoj Mahimkar,Usha Patel,Manish Kumar Pandey,Arun Chandrasekharan,Hollis Dsouza,Atanu Bhattacharjee,Abhishek Mahajan,Nilesh Sabale,Jai Prakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Anil K D'Cruz,Pankaj Chaturvedi ,Prathamesh S Pai,Devendra Chaukar, Sudhir Nair,Shivakumar Thiagarajan,Shripad Banavali,Kumar Prabhash.
+Nimotuzumab-cisplatin-radiation versus cisplatin-radiation in HPV negative oropharyngeal cancer. Oncotarget
+. 2020 Jan 28;11(4):399-408. doi: 10.18632/oncotarget.27443.
 8. Vanita Noronha,Atanu Bhattacharjee,Vijay M Patil,Amit Joshi,Nandini Menon,Srushti Shah,Sadhana Kannan,Sadaf A Mukadam, Kamesh Maske, Sandeep Ishi, Kumar Prabhash.Aprepitant for Cough Suppression in Advanced Lung Cancer: A Randomized Trial.Chest
 . 2020 Jan 18;S0012-3692(20)30032-5. doi: 10.1016/j.chest.2019.11.048. Online ahead of print.
 9. Vijay Maruti Patil,Vanita Noronha,Shivakumar Thiagarajan,Amit Joshi,Arun Chandrasekharan,Vikas Talreja,Jaiprakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Shashikant Juvekar,Abhishek Mahajan,Archi Agarwal,Nilendu Purandare,Atanu Bhattacharjee, Anil K D'Cruz, Pankaj Chaturvedi,Prathamesh S Pai 2,Devendra Chaukar,Kumar Prabhash.Salvage surgery in head and neck cancer: Does it improve outcomes?Eur J Surg Oncol. 2020 Jan 15;S0748-7983(20)30024-X. doi: 10.1016/j.ejso.2020.01.019.
