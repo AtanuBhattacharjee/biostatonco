@@ -1,4 +1,3 @@
-![22411298](https://user-images.githubusercontent.com/22411298/83376702-ddfc4f00-a3f0-11ea-89d7-c19fe8e163c3.png)
 ![22411298](https://user-images.githubusercontent.com/22411298/83390080-dfd50b00-a40e-11ea-9aea-08e2204eecc7.png)
 ## Atanu Bhattacharjee,Ph.D (Statistics)
 Assistant Professor Biostatistics
