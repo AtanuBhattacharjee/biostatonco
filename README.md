@@ -14,8 +14,7 @@ My research interests include Bayesian inference, longitudinal data analysis, su
 2. Vijay M. Patil  Arti Bhelekar  Nandini Menon  Atanu Bhattacharjee  Vijai Simha  Ram Abhinav  Anuja Abhyankar  Epari Sridhar  Abhishek Mahajan  Ameya D. Puranik. Reverse swing‐M, phase 1 study of repurposing mebendazole in recurrent high‐grade glioma.cancer Medicine.https://doi.org/10.1002/cam4.3094
 3. Atanu Bhattacharjee, Vijay M Patil, Rajesh Dikshit, Kumar Prabhash, Arjun Singh, Pankaj Chaturvedi.Should we wait or not? The preferable option for patients with stage IV oral cancer in COVID-19 pandemic.Head Neck
 . 2020 Jun;42(6):1173-1178. doi: 10.1002/hed.26196. Epub 2020 Apr 28.
-4. Atanu Bhattacharjee, Jacinth Rajendra, Rajesh Dikshit, Shilpee Dutt.HER2 borderline is a negative prognostic factor for primary malignant breast cancer.Breast Cancer Res Treat
-. 2020 May;181(1):225-231. doi: 10.1007/s10549-020-05608-3
+4. Atanu Bhattacharjee, Jacinth Rajendra, Rajesh Dikshit, Shilpee Dutt.HER2 borderline is a negative prognostic factor for primary malignant breast cancer.Breast Cancer Res Treat. 2020 May;181(1):225-231. doi: 10.1007/s10549-020-05608-3
 5. Atanu Bhattacharjee.Bayesian competing risks analysis without data stratification.DOI:https://doi.org/10.1016/j.cegh.2019.08.010
 6.Akshat Malik,Sudhir Nair,Arjun Singh,Komal Lamba,Swapnil Rane,Munita Bal,Atanu Bhattacharjee,Hisham Mehanna, Pankaj Chaturvedi.Soft tissue deposit in neck dissection specimen carries a poor prognosis in oral cancer: A matched pair analysis.
 7. Vanita Noronha,Vijay Maruti Patil,Amit Joshi,Manoj Mahimkar,Usha Patel,Manish Kumar Pandey,Arun Chandrasekharan,Hollis Dsouza,Atanu Bhattacharjee,Abhishek Mahajan,Nilesh Sabale,Jai Prakash Agarwal,Sarbani Ghosh-Laskar,Ashwini Budrukkar,Anil K D'Cruz,Pankaj Chaturvedi ,Prathamesh S Pai,Devendra Chaukar, Sudhir Nair,Shivakumar Thiagarajan,Shripad Banavali,Kumar Prabhash.
